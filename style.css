@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: #FFF07C;
+    font-family:'Courier New', Courier, monospace;
+}
+
+header {
+background-image: url(images/closeup1.jpg);
+height: fit-content;
+background-position: center;
+color:#2D93AD;
+padding: 40px 0 20px 20px
+}
+
+h1 {
+    margin: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 128px;
+}
+
+ol li {
+    text-align: center;
+
+}
+
+h2 {
+    font-family: arial;
+    font-size: 32px;
+    margin: 48px;
+}
+
+a:link    { color:#87BBA2; }
+a:visited { color:#FFF07C; }
+a:hover   { color:#FFF07C; }
+a:active  { color:#2D93AD ; }
